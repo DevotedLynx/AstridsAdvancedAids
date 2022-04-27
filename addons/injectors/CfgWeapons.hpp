@@ -14,4 +14,10 @@ class cfgWeapons
         displayName="Mule";
         descriptionShort="A stimilant to increase your carrying capacity";
     };
+    class astrid_Hemocytoblastic_Stimulant: ACE_morphine
+    {
+        author = "LynxAustralis";
+        displayName = "Hemocytoblastic Stimulant";
+        descriptionShort = "a stimulant to increase Hemocytoblasts' production";
+    };
 };

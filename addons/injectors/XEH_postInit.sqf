@@ -2,6 +2,8 @@
 
 [QGVAR(adrenalineTreatment), {_this call FUNC(adrenalineLocal)}] call CBA_fnc_addEventHandler;
 [QGVAR(MuleTreatment), {_this call FUNC(MuleLocal)}] call CBA_fnc_addEventHandler;
+[QGVAR(HemocytoblasticTreatment), {_this call FUNC(hemocytoblasticLocal)}] call CBA_fnc_addEventHandler;
+
 
 ["ace_common_setAnimSpeedCoef", {
     params ["_unit", "_value"];

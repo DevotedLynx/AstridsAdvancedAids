@@ -15,12 +15,14 @@ class cfgPatches
         units[] = 
             {
                 "astrid_adrenalineitem",
-                "astrid_Muleitem"
+                "astrid_Muleitem",
+                "astrid_Hemocytoblastic_StimulantItem"
             };
         weapons[] =
             {
                 "astrid_adrenaline",
-                "astrid_Mule"
+                "astrid_Mule",
+                "astrid_Hemocytoblastic_Stimulant"
             };
     };
 };

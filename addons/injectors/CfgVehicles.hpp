@@ -12,4 +12,9 @@ class cfgVehicles
         displayname="Mule";
         author="LynxAustralis";
     };
+    class astrid_Hemocytoblastic_Stimulantitem: ACE_morphineItem
+    {
+        displayname = "Hemocytoblastic Stimulant";
+        author = "LynxAustralis";
+    };
 };

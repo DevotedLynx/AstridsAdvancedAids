@@ -7,7 +7,7 @@
 
 
 
-
+//ps over kill function only adding the details and medication to ace medical in fnc_Mule.sqf is required actual code is called every time stamina is calculated by ace in XEH_postInit.sqf under Astrid_Mule
 params ["_medic", "_patient","_classname"];
 
 ["Astrid_Mule", [_patient,0]] call CBA_fnc_localEvent;
